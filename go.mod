@@ -12,7 +12,7 @@ require (
 	github.com/mattn/go-isatty v0.0.18 // indirect
 	github.com/mstoykov/atlas v0.0.0-20220811071828-388f114305dd // indirect
 	github.com/spf13/afero v1.9.5 // indirect
-	github.com/tarantool/go-tarantool v1.10.0
+	github.com/tarantool/go-tarantool/v2 v2.0.0-20230628170032-dbfaab5078b5
 	go.k6.io/k6 v0.43.1
 	golang.org/x/crypto v0.7.0 // indirect
 	google.golang.org/genproto v0.0.0-20230330154414-c0448cd141ea // indirect
